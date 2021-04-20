@@ -6,9 +6,9 @@ function myAnimal() {
 }
 
 function yourAnimal() {
+  yourAnimal(cat);
   return animal;
 }
-yourAnimal(cat);
 
 function add2(n) {
   return n + two
