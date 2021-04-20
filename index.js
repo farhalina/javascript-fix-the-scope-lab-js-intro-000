@@ -5,10 +5,11 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(animal) {
+function yourAnimal() {
   yourAnimal(cat);
   return animal;
 }
+yourAnimal();
 
 function add2(n) {
   return n + two
