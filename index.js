@@ -6,6 +6,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
+  var yourAnimal(cat);
   return animal;
   yourAnimal(cat);
 }
